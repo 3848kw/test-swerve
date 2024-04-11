@@ -1,0 +1,68 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 15.75,
+        "y": 4.34
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 15.85,
+        "y": 4.34
+      },
+      "isLocked": false,
+      "linkedName": "startskipl"
+    },
+    {
+      "anchor": {
+        "x": 14.061197669866504,
+        "y": 1.6025245892550346
+      },
+      "prevControl": {
+        "x": 15.73619766986651,
+        "y": 2.500024589255033
+      },
+      "nextControl": {
+        "x": 12.386197669866503,
+        "y": 0.7050245892550346
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 9.25,
+        "y": 0.75
+      },
+      "prevControl": {
+        "x": 9.15,
+        "y": 0.75
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "skipping note 1"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 180.0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "Red autos",
+  "previewStartingState": {
+    "rotation": -120.0,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}

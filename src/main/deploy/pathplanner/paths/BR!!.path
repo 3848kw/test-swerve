@@ -1,0 +1,68 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 8.2,
+        "y": 0.75
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 8.299999999999999,
+        "y": 0.75
+      },
+      "isLocked": false,
+      "linkedName": "BM2"
+    },
+    {
+      "anchor": {
+        "x": 4.183818837912742,
+        "y": 1.8866084937138818
+      },
+      "prevControl": {
+        "x": 6.498231676410114,
+        "y": 0.9705517879314374
+      },
+      "nextControl": {
+        "x": 1.8694059994153704,
+        "y": 2.802665199496326
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 0.8330856058340331,
+        "y": 4.355953201702322
+      },
+      "prevControl": {
+        "x": 0.8830856058340332,
+        "y": 4.269350661323878
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -60.0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "blue autos",
+  "previewStartingState": {
+    "rotation": 0,
+    "velocity": 0
+  },
+  "useDefaultConstraints": false
+}
